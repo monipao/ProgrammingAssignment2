@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-  #prueba git1
+  #prueba git1.1
 
 }
 
@@ -13,5 +13,5 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
-  #prueba git2
+  #prueba git2.1
 }
